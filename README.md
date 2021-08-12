@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amandeep Saxena</h1>
-<h3 align="center">A passionate Web Developer & Ethical Hacker from India</h3>
+<h3 align="center">A passionate Full-Stack Web Developer & Cloud Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ad-saxena&label=Profile%20views&color=0e75b6&style=flat" alt="ad-saxena" /> </p>
 
