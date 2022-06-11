@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ad-saxena" alt="ad-saxena" /></a> </p>
 <img align="right" alt="Coder" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
 
-- 🌱 I’ve ccompleted my Bachelors in Technology with Computer Science & Engineering from **SRMIST CHENNAI**
+- 🌱 I’ve completed my B.Tech with Computer Science & Engineering from **SRMIST CHENNAI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ad-saxena](https://github.com/ad-saxena)
 
